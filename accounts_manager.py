@@ -204,7 +204,7 @@ class AccountsManager:
 
             self._type_print("\n1. Добавить аккаунт\n2. Список аккаунтов\n3. Удалить аккаунт\n4. Запустить аккаунт\n5. Выход", GREEN)
             print(f"\n{' ' * 20}{PURPLE}DEV: @mopsiuser & ChatGPT edition){RESET}")
-            print(f"{' ' * 20}{PURPLE}TGK: @MopsiProject{RESET}")
+            print(f"{' ' * 20}{PURPLE}TGK: @MopsiProject        V:Demo{RESET}")
 
             try:
                 choice = input("Ваш выбор: ").strip()
